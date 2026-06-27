@@ -1,0 +1,75 @@
+Pregunta 7:
+
+### POST
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 188
+ETag: W/"bc-Q40obMwRX9IDOtYTkRM0GbmEmeg"
+Date: Sat, 27 Jun 2026 16:41:27 GMT
+Connection: close
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 2,
+    "tipo": "Agua potable",
+    "descripcion": "Fuga de agua en la tubería principal del barrio Las Américas, lleva tres días sin ser atendida."
+  }
+}
+
+### GET
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 274
+ETag: W/"112-wNDseU0ahoswvKnzv7enML6qMac"
+Date: Sat, 27 Jun 2026 16:42:53 GMT
+Connection: close
+
+[
+  {
+    "id": 1,
+    "tipo": "Medio ambiente",
+    "descripcion": "Acumulación de basuras en la orilla del río Quito afectando la fauna local."
+  },
+  {
+    "id": 2,
+    "tipo": "Agua potable",
+    "descripcion": "Fuga de agua en la tubería principal del barrio Las Américas, lleva tres días sin ser atendida."
+  }
+]
+
+
+Pregunta 8:
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 188
+ETag: W/"bc-yTUeDBcO6ApOKJVcAEZ/8RPFk4A"
+Date: Sat, 27 Jun 2026 16:51:42 GMT
+Connection: close
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 4,
+    "tipo": "Salud pública",
+    "descripcion": "Presencia de aguas estancadas en el parque principal del barrio generando criadero de mosquitos."
+  }
+}
+
+Ejemplo 1:
+{
+  "tipo": "Salud pública",
+  "descripcion": "Presencia de aguas estancadas en el parque principal del barrio generando criadero de mosquitos."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Vías y transporte",
+  "descripcion": "Derrumbe parcial en la vía que comunica la vereda con el casco urbano, impidiendo el paso de vehículos."
+}

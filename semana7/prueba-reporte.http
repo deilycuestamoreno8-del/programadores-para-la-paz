@@ -1,0 +1,23 @@
+### Agregar reporte de agua (POST)
+POST http://localhost:3000/reportes
+Content-Type: application/json
+
+{
+  "tipo": "Agua potable",
+  "descripcion": "Fuga de agua en la tubería principal del barrio Las Américas, lleva tres días sin ser atendida."
+}
+
+###
+
+### Consultar todos los reportes (GET), 1 reporte
+GET http://localhost:3000/reportes
+
+
+### Segundo reporte (POST)
+POST http://localhost:3000/reportes
+Content-Type: application/json
+
+{
+  "tipo": "Salud pública",
+  "descripcion": "Presencia de aguas estancadas en el parque principal del barrio generando criadero de mosquitos."
+}
