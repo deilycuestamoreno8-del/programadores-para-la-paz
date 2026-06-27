@@ -1,4 +1,4 @@
-Comandos utilizados
+Comandos utilizados:
 
 pwd
 ls
