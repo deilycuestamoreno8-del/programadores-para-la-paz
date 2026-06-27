@@ -1,0 +1,6 @@
+Pregunta 8:
+
+{
+  "tipo": "Contaminación ambiental",
+  "descripcion": "Se reporta vertimiento de residuos sólidos en la orilla del río Atrato, afectando el ecosistema y la comunidad cercana."
+}
