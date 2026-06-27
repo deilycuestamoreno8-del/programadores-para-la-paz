@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Salud pública",
+  "descripcion": "Presencia de aguas estancadas en el parque principal del barrio generando criadero de mosquitos."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Vías y transporte",
+  "descripcion": "Derrumbe parcial en la vía que comunica la vereda con el casco urbano, impidiendo el paso de vehículos."
+}
