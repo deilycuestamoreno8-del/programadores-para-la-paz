@@ -1,0 +1,5 @@
+Pregunta 6:
+
+1. Usar contraseñas largas que combinen letras, números y símbolos
+2. Activar la verificación en dos pasos en todas las cuentas importantes
+3. No conectarse a redes WiFi públicas sin usar una VPN

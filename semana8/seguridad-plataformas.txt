@@ -1,0 +1,7 @@
+Pregunta 8:
+
+1. Cifrar la información sensible de los usuarios antes de almacenarla.
+2. Verificar la identidad del usuario antes de permitir el acceso.
+3. Realizar copias de seguridad periódicas de los datos de la plataforma.
+4. Notificar a los usuarios ante cualquier actividad sospechosa en su cuenta.
+5. Establecer niveles de acceso según el rol de cada persona en la comunidad.
