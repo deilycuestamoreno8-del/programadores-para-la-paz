@@ -17,3 +17,4 @@ Pregunta 4:
 ¿Cuál comando permite crear una carpeta nueva desde la terminal?
 
 Respuesta: B. mkdir.
+
