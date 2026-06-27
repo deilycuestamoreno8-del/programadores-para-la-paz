@@ -1,0 +1,18 @@
+
+### Probar registro, Pregunta 7:
+POST http://localhost:3000/registro
+Content-Type: application/json
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+### Probar incidencia ambiental, Pregunta 8:
+POST http://localhost:3000/incidencia
+Content-Type: application/json
+
+{
+  "tipo": "Contaminación ambiental",
+  "descripcion": "Se reporta vertimiento de residuos sólidos en la orilla del río Atrato, afectando el ecosistema y la comunidad cercana."
+}

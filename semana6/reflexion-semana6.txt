@@ -1,0 +1,15 @@
+Pregunta 9:
+
+¿Por qué es importante que las plataformas tecnológicas puedan 
+recibir reportes o información enviada por los ciudadanos de forma estructurada?
+
+Las plataformas tecnológicas que reciben información ciudadana
+de forma estructurada permiten que los problemas de una comunidad sean atendidos
+con mayor rapidez y organización. Cuando un ciudadano reporta una incidencia a través
+de un sistema digital, su mensaje llega de manera clara y queda registrado para su seguimiento.
+El uso de formatos como JSON garantiza que los datos sean precisos y fáciles de procesar.
+Esto es especialmente valioso en regiones como el Chocó, donde reportar daños ambientales
+en ríos o zonas naturales de forma organizada puede acelerar
+la respuesta de las autoridades y proteger el territorio.
+La tecnología, puesta al servicio de la comunidad,
+se convierte en una herramienta de participación y cuidado colectivo.

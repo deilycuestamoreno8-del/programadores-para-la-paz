@@ -1,0 +1,31 @@
+Pregunta 7:
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 72
+ETag: W/"48-TkubmQyV1y6P0P+Kk28W9cIIpqo"
+Date: Sat, 27 Jun 2026 15:36:16 GMT
+Connection: close
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Pregunta 8:
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 207
+ETag: W/"cf-eUsy8S1eZC3ggRH4FpnmQ9oZHBo"
+Date: Sat, 27 Jun 2026 15:46:38 GMT
+Connection: close
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Contaminación ambiental",
+  "descripcion": "Se reporta vertimiento de residuos sólidos en la orilla del río Atrato, afectando el ecosistema y la comunidad cercana."
+}
