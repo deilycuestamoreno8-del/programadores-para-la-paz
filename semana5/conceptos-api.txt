@@ -1,0 +1,13 @@
+Ruta: POST /sugerencia
+
+¿Qué hace esta ruta?
+
+Esta ruta permite que un usuario envíe una sugerencia al servidor.
+La información se recibe mediante el método POST y el sistema
+responde confirmando que la sugerencia fue recibida.
+
+¿Para qué podría servir en una aplicación comunitaria?
+
+Podría utilizarse para que los habitantes compartan ideas 
+que ayuden a mejorar su comunidad, como proponer nuevas actividades, 
+mejoras en los espacios públicos o iniciativas para beneficiar al barrio.

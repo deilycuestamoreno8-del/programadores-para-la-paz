@@ -1,0 +1,11 @@
+http://localhost:3000
+Al ingresar a esta ruta se muestra un mensaje de bienvenida
+ que confirma que el servidor está funcionando correctamente.
+
+http://localhost:3000/saludo
+Esta ruta muestra un saludo sencillo para el usuario, demostrando 
+que la aplicación responde sin problemas.
+
+http://localhost:3000/mensaje/juan
+Al acceder a esta ruta aparece un saludo personalizado para Juan, 
+tomando el nombre directamente desde la dirección URL.
