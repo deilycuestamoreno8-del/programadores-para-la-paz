@@ -9,3 +9,6 @@ touch comandos-terminal.txt
 touch reflexion-semana2.txt
 cd ..
 git status
+git add .
+git commit -m "Actividad semana 2"
+git push
